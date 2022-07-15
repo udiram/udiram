@@ -6,6 +6,7 @@
   <a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=udiram&langs_count=10&layout=compact&theme=radical&hide_border=true&">
     <img alt="Udi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udiram&langs_count=10&layout=compact&theme=radical&hide_border=true" /></a>
     
-    <a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=udiram" >
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </p>
