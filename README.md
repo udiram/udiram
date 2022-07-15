@@ -8,5 +8,3 @@
     
 [![udi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udiram)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
-(https://github-readme-stats.vercel.app/api/wakatime?username=udiram)
