@@ -8,3 +8,4 @@
     
 [![udi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=udiram&v=2)](https://wakatime.com/@udiram)
 </p>
+![Profile View Counter](https://komarev.com/ghpvc/?username=udiram)
